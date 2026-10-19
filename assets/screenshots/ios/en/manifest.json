@@ -1,0 +1,50 @@
+{
+  "platform": "iOS",
+  "language": "English",
+  "source_dimensions": [
+    1320,
+    2868
+  ],
+  "web_dimensions": [
+    660,
+    1434
+  ],
+  "screenshots": [
+    {
+      "name": "tournament",
+      "source_file": "05_round_inplay.png",
+      "original_sha256": "04ea094f6331f5d95e1d10bc3ae483af1901e596fbd839a5747a3b1c0609c33c",
+      "web_bytes": 37260
+    },
+    {
+      "name": "standings",
+      "source_file": "08_standings_tab.png",
+      "original_sha256": "e58432c8e27326ff534ed49a225bf51c16dea726a8d3b5a725ba5cd4c87eb630",
+      "web_bytes": 33600
+    },
+    {
+      "name": "formats",
+      "source_file": "02_tournament_formats.png",
+      "original_sha256": "3b774987d228fd8a30d6d0e007a2e6c207a517b2abbcbfd79268b1bb14d00d22",
+      "web_bytes": 70422
+    },
+    {
+      "name": "setup",
+      "source_file": "03_create_players_filled.png",
+      "original_sha256": "742160e4b39666fc2dd0ed728668ce412f203d9d13a9b62067b8f5a7de371f3c",
+      "web_bytes": 21176
+    },
+    {
+      "name": "scores",
+      "source_file": "06_score_entry_picker.png",
+      "original_sha256": "bf7e29a433e8b230c24644de4ee6099e9b9095b4aec3be01afbe7229d213ca96",
+      "web_bytes": 29178
+    },
+    {
+      "name": "results",
+      "source_file": "09_final_results.png",
+      "original_sha256": "30d55f6a30cdc7ff4277df7bf75ffff9927c846694d42cbafa2c77aff7250e9b",
+      "web_bytes": 49114
+    }
+  ]
+}
