@@ -17,7 +17,10 @@ mobile app source code or user tournament data.
 - `terms.html`: Terms of Use.
 - `style.css`: shared styles.
 - `app-icon.webp`: 288 × 288 website icon, sized for the 96 px hero at up to 3× density.
-- `app-icon.png`: 64 × 64 PNG favicon.
+- `favicon.png`: 64 × 64 PNG favicon.
+- `app-icon.png`: original 1024 × 1024 icon, preserved without modification.
+
+Keep the original icon intact; generate separate files for website optimisation.
 
 The website has no JavaScript, forms, package dependencies, or build step.
 
